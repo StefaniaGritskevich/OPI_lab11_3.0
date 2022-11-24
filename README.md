@@ -6,3 +6,4 @@ blaaaaaaayyyyyyyyyy
 =======
 uje ne top
 >>>>>>> 35cfc6ae77394902977d45e86f6a39eaa5c101c8
+отчёт по лабе 6
